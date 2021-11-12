@@ -12,5 +12,5 @@ def function_should_crash():
 
 if __name__ == "__main__":
 
-    # Debugging this file and the debugger keeps active after the error
+    # Debugging this file and the debugger keeps active after the error, as expected.
     function_should_crash()
